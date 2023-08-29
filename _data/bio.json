@@ -14,7 +14,9 @@
     ]
   },
   "interests": [
-    { "name": "Game Development" }
+    { "name": "Game Development" },
+    { "name": "Graphic Design" },
+    { "name": "Music" }
   ],
   "skills": [
     {
