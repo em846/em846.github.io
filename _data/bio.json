@@ -21,7 +21,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Python", "C++", "Java", "Javascript" ]
+      "keywords": [ "Python", "Java","C", "C++", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
@@ -67,38 +67,6 @@
         "Teaching children of historical day-to-day in Hawai'i on plantations",
         "Learning of the cultural and societal impacts of plantations historically and today"
       ]
-    },
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
     }
   ],
   "references": [
