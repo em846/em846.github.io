@@ -10,7 +10,7 @@ labels:
   - HTML and CSS
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/frameworks.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/frameworks.png">
 
 Being someone completely new to HTML, CSS, and UI frameworks, it had been a lot to consume. I also think that if you asked my opinion on whether I prefer straight HTML and CSS over using a UI framework, the fact that I had learned a bit of both in quick succession highly influences my answer.
 
