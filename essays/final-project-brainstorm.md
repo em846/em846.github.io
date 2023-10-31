@@ -10,6 +10,8 @@ labels:
   - Meteor
 ---
 
+Authors: Anthony Lee, Erin Murata, and Leah Yanagisawa
+
 ## Overview:
 
 The problem: There are many campus events held throughout the school year, but hearing about it or making the event known may be a difficult or simply troublesome task. The UH Manoa website does have a page that lists all upcoming events, but it is presented in a long dense list only sorted by date. Sometimes events are not associated with a particular department and cannot be easily searched.
@@ -34,7 +36,7 @@ Possible mockup pages include:
 Here are some ways users of this application may navigate it.
 
 - New user visits landing page, logs in, sees home page, sets up a profile.
-- Event coordinator creates profile, creates new event with a location, topics/interest, and brief description.
+- Event coordinator creates a profile, creates a new event with a location, topics/interest, and brief description.
 - User logs in, uses filters to look for events, signs up for an event.
 
 ## Beyond the basics:
