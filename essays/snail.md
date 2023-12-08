@@ -4,7 +4,7 @@ type: essay
 title: "A Snail on a Rocket"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-28
-published: true
+published: false
 labels:
 
 ---
