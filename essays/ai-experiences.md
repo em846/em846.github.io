@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+draft: true
 title: "AI, or a Lack Thereof"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-19
