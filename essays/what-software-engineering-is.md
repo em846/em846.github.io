@@ -4,7 +4,7 @@ type: essay
 title: "I Finally Know What Software Engineering Is"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-30
-published: true
+published: false
 labels:
   - Software engineering
 ---
